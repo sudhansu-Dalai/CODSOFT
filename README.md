@@ -1,2 +1,2 @@
 # CODSOFT
-This Is My Secnd project
+ Codsoft Internship Projects.
