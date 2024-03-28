@@ -1,2 +1,2 @@
-# demoproject-2
+# CODSOFT
 This Is My Secnd project
